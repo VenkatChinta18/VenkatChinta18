@@ -1,16 +1,26 @@
-## Hi there 👋
+                                                                Hi 👋, I'm Venkat
+                                                      A passionate software developer from India
 
-<!--
-**VenkatChinta18/VenkatChinta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+🌱 I’m currently sharpening my System Design skills. Learning conurrecny and event driven architecture.
 
-Here are some ideas to get you started:
+👯 My upcoming plans are to hone my skills in Scalable and Distributed Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Java, Spring, Object-Oriented Design, System architecture, and any general software development questions
+
+💻 Experienced Java Developer (8+ years)
+🚀 Skilled in Spring Boot, REST API, Microservices, Hibernate, SQL/NoSQL
+☁️ Cloud exposure: AWS 
+📫 How to reach me: mail : venkatchinta18@gmail.com
+Linked In : https://www.linkedin.com/in/c-c-venkat-4abaa694/
+
+🔧 Technologies & Tools
+Java | Spring Boot | REST API | Microservices
+Hibernate | JPA | SQL | NoSQL
+Kafka | Activemq
+Jasper Reports | ireport
+AWS | Docker | Kubernetes
+Maven | Gradle
+Git | Jenkins | SonarQube
+OOD | System Design | Distributed Systems
+Jira | Confluence  | Scrum
